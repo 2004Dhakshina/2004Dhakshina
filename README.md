@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
 📊 Entry-Level Data Analyst 
-| Power BI | SQL | Python | Excel | Tableau  
+ | Power BI | SQL | Python | Excel | Tableau  
 📍 Bengaluru, Karnataka, India
 
 I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights through data visualization, analytics, and machine learning. I have hands-on experience building interactive dashboards, performing data cleaning and analysis, and developing machine learning models to solve real-world business problems.
